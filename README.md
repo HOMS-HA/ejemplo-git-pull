@@ -1,2 +1,3 @@
 # ejemplo-git-pull
-Repositorio para praticar el comando git pull   ffffff
+Repositorio para praticar el comando git pull  
+freecodecamp
